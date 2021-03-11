@@ -32,7 +32,7 @@
     ]
   },
   "dependencies": {
-    "@apollo/client": "^3.3.7",
+    "@apollo/client": "^3.3.11",
     "content-type": "^1.0.4",
     "graphql": "^15.4.0",
     "intersection-observer": "^0.12.0",
